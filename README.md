@@ -1,2 +1,2 @@
 # CODSOFTJAVA2
-This repository contains CodSoft Java Internship projects made by Karthikeyan Rampal
+This repository contains CodSoft Java Internship Student Management System project made by Karthikeyan Rampal
